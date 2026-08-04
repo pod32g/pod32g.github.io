@@ -3,6 +3,8 @@ title: Support
 permalink: /omni-auth/support/
 ---
 
+**English** · [Español](/omni-auth/es/support/)
+
 # Support
 
 ## Getting help

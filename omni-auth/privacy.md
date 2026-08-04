@@ -3,6 +3,8 @@ title: Privacy Policy
 permalink: /omni-auth/privacy/
 ---
 
+**English** · [Español](/omni-auth/es/privacy/)
+
 # Privacy Policy
 
 **Last updated: 3 August 2026**

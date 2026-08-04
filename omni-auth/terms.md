@@ -3,6 +3,8 @@ title: Terms of Use
 permalink: /omni-auth/terms/
 ---
 
+**English** · [Español](/omni-auth/es/terms/)
+
 # Terms of Use
 
 **Last updated: 3 August 2026**

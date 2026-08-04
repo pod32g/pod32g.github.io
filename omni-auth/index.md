@@ -3,6 +3,8 @@ title: Omni Auth
 permalink: /omni-auth/
 ---
 
+**English** · [Español](/omni-auth/es/)
+
 # Omni Auth
 
 **A fast, private authenticator for your two-factor codes.**
