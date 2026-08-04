@@ -71,5 +71,4 @@ updated" date.
 
 ## Contact
 
-Questions about this policy can be raised at
-[github.com/pod32g/omni-auth/issues](https://github.com/pod32g/omni-auth/issues).
+Questions about this policy: **[thepod32g@gmail.com](mailto:thepod32g@gmail.com?subject=Omni%20Auth%20Privacy)**

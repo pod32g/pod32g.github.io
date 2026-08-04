@@ -7,12 +7,12 @@ permalink: /omni-auth/support/
 
 ## Getting help
 
-Report a problem or ask a question at
-[github.com/pod32g/omni-auth/issues](https://github.com/pod32g/omni-auth/issues).
+Email **[thepod32g@gmail.com](mailto:thepod32g@gmail.com?subject=Omni%20Auth%20Support)**.
 
-When reporting a bug, it helps to include your iOS version, your device model, and what you were
-doing when it happened. **Never include a two-factor secret, QR code, backup file, or Recovery
-Key** in a bug report — anyone who sees them can generate your codes.
+It helps to include your iOS version, your device model, the app version (Settings ▸ About ▸
+Version), and what you were doing when the problem happened. **Never include a two-factor secret,
+QR code, backup file, or Recovery Key** in a support request — anyone who sees them can generate
+your codes.
 
 ## Common questions
 

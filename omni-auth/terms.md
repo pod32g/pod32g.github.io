@@ -60,5 +60,4 @@ updated" date. Continuing to use the app after a change means you accept the upd
 
 ## Contact
 
-Questions can be raised at
-[github.com/pod32g/omni-auth/issues](https://github.com/pod32g/omni-auth/issues).
+Questions about these terms: **[thepod32g@gmail.com](mailto:thepod32g@gmail.com?subject=Omni%20Auth%20Terms)**
