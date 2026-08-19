@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "dev.pod32g.omniauth",
+      "sha256_cert_fingerprints": [
+        "3E:BE:B4:EC:29:19:5A:FD:34:64:2E:B5:CD:62:8B:6C:B4:6D:D4:EF:E1:4A:35:00:24:99:16:FF:D1:EF:4B:0F"
+      ]
+    }
+  }
+]

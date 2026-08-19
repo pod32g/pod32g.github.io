@@ -2,3 +2,10 @@ title: pod32g
 description: Project pages and policies.
 theme: jekyll-theme-minimal
 show_downloads: false
+
+# Jekyll skips dotfiles and dot-directories, so without this `.well-known` is never copied into
+# the built site and https://pod32g.dev/.well-known/assetlinks.json 404s. Android's App Links
+# verification fetches exactly that URL, so the omission fails silently: the app installs fine and
+# its links simply never open it.
+include:
+  - .well-known
